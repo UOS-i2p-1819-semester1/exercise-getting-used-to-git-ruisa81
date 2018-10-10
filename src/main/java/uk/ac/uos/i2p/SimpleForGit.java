@@ -6,8 +6,13 @@ public class SimpleForGit {
 		SimpleForGit sg = new SimpleForGit();
 		System.err.println("Hello from " + sg.getName());
 	}
-
+/*
 	public String getName() {
 		return "N. O. Body";
+	}
+	*/
+	
+	public String getName() {
+		return "HAHA Hack!";
 	}
 }
